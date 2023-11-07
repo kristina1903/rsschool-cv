@@ -22,11 +22,11 @@
 2. [RS School](https://rs.school/) (in process)
 
 ## Work experience: ##
-Secondary school
-Primary school teacher(2014-2021)
-Freelanсer
-Teacher-guardian(2021-present days)  
-Front-end Developer(2023-present days) 
+1. Secondary school
+  + _Primary school teacher_(2014-2021)
+2. Freelanсer
+  + _Teacher-guardian_(2021-present days)  
+  + _Front-end Developer_(2023-present days) 
 
 ## Skills ## 
 * HTML
