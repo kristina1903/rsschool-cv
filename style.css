@@ -32,8 +32,9 @@ body {
 }
 
 .nav_item:hover {
-    color: #d4109a;
+    transform: scale(1.1);
     transition: .5s;
+    cursor: pointer;
 }
 
 .avatar {
@@ -64,6 +65,7 @@ body {
 .contact_item:hover {
     color: black;
     transition: .5s;
+    cursor: pointer;
 }
 
 .card {
@@ -76,10 +78,6 @@ body {
     background: #ecb3ff;
 }
 
-.bg_2 {
-    background: #e699ff;
-}
-
 .bg_3 {
     background: #df80ff;
 }
@@ -90,6 +88,12 @@ body {
 
 .table tr:nth-child(even) {
     color: rgb(80, 78, 80);
+    background-color: #faf1fa;
+}
+
+.table tr:nth-child(odd) {
+    color: rgb(80, 78, 80);
+    background-color: #fad3fa;
 }
 
 .table td {
@@ -111,5 +115,22 @@ body {
 .links a:hover {
     text-decoration: underline;
     color: black;
-    transition: .5s;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.courses li {
+    list-style-type: circle;
+}
+
+.courses a {
+    text-decoration: none;
+    color: black;
+}
+
+.courses a:hover {
+    text-decoration: underline;
+    color: black;
+    transition: 0.5s;
+    cursor: pointer;
 }
