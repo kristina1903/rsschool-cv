@@ -82,7 +82,7 @@ body {
     background: #df80ff;
 }
 
-.table {
+/*.table {
     width: 100%;
 }
 
@@ -101,7 +101,7 @@ body {
     border-radius: 15px;
     padding: 5px;
     margin: 20px;
-}
+}*/
 
 .hobby li {
     list-style-type: circle;
