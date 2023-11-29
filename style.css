@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to bottom right, #ffffff, #d966ff);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 1240px;
+    margin: auto;
+    padding: 20px 40px;
+}
+
+.nav_menu {
+    display: flex;
+    list-style: none;
+    padding-bottom: 20px;
+}
+
+.nav_item {
+    margin-right: 30px;
+    box-shadow: 4px 7px 17px 0px #800080;
+    border-radius: 20px;
+    padding: 5px;
+    font-size: 10px;
+}
+
+.nav_item:hover {
+    transform: scale(1.1);
+    transition: .5s;
+    cursor: pointer;
+}
+
+.avatar {
+    width: 200px;
+    box-shadow: 5px 6px 12px 0px;
+    margin-bottom: 20px;
+}
+
+.information {
+    display: flex;
+    gap: 40px;
+}
+
+.main_info {
+    padding-bottom: 20px;
+}
+
+.contacts {
+    list-style: none;
+}
+
+.contact_item {
+    color: gray;
+    text-decoration: none;
+    border-bottom: 2px solid gray;
+}
+
+.contact_item:hover {
+    color: black;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.card {
+    border-radius: 20px;
+    padding: 20px 40px;
+    margin-bottom: 20px;
+}
+
+.bg_1 {
+    background: #ecb3ff;
+}
+
+.bg_3 {
+    background: #df80ff;
+}
+
+.table {
+    width: 100%;
+}
+
+.table tr:nth-child(even) {
+    color: rgb(80, 78, 80);
+    background-color: #faf1fa;
+}
+
+.table tr:nth-child(odd) {
+    color: rgb(80, 78, 80);
+    background-color: #fad3fa;
+}
+
+.table td {
+    border: 2px solid gray;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 20px;
+}
+
+.hobby li {
+    list-style-type: circle;
+}
+
+.links a {
+    text-decoration: none;
+    color: gray;
+}
+
+.links a:hover {
+    text-decoration: underline;
+    color: black;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.courses li {
+    list-style-type: circle;
+}
+
+.courses a {
+    text-decoration: none;
+    color: black;
+}
+
+.courses a:hover {
+    text-decoration: underline;
+    color: black;
+    transition: 0.5s;
+    cursor: pointer;
+}
