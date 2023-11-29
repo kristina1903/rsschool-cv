@@ -25,15 +25,15 @@
 1. Secondary school
   + _Primary school teacher_(2014-2021)
 2. Freelanсer
-  + _Teacher-guardian_(2021-present days)  
-  + _Front-end Developer_(2023-present days) 
+  + _Teacher-guardian_(2021-present days)
+  + _Front-end Developer_(2023-present days)
 
-## Skills## 
+## Skills##
 * HTML
 * CSS
 * Git
 
-## Languages## 
+## Languages##
 * Belarussian (native)
 * Russian (native)
 * English (A2)
